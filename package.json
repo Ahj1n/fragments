@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ahj1n/fragments/issues"
   },
-  "homepage": "https://github.com/Ahj1n/fragments#readme"
+  "homepage": "https://github.com/Ahj1n/fragments#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
 }
